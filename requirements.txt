@@ -16,3 +16,4 @@ fastapi
 uvicorn
 jupyter
 notebook
+plotly
