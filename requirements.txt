@@ -5,9 +5,9 @@ matplotlib
 seaborn
 tensorflow
 keras
-pytorch
-torchvision
-torchaudio
+torch==2.2.1
+torchvision==0.17.1
+torchaudio==2.2.1
 opencv-python
 nltk
 spacy
